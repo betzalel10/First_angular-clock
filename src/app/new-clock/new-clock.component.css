@@ -1,0 +1,17 @@
+.Clock{
+  display: inline-block;
+  background-color: blue;
+  color: yellow;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 7px solid green;
+  margin: 50px;
+  text-align: center
+}
+h4{
+  color: orangered
+}
+
+
+
